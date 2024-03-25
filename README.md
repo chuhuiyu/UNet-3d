@@ -1,3 +1,3 @@
 # UNet-3d
 
-图像处理导论作业
+Image Processing Homework: Utilize UNet-3d to do image segmentation
